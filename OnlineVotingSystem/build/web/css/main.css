@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17 Feb, 2020, 1:50:45 PM
+    Author     : Kartikeya
+*/
+body{
+    background-color: #162447!important;
+}
+.jumbotron{
+    background-image: linear-gradient(to top right,#ff96b8,#80d7ff);
+    border-radius: 0!important;
+}
+
+h5{
+    font-family: 'Audiowide', cursive!important;
+    -webkit-text-stroke: 1px white!important;
+/*    color: #2c4b59!important;*/
+    background: -webkit-linear-gradient(#33ddff,#2c4b59,#2c4b59)!important;
+    background-clip: text!important;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;
+    letter-spacing: 5px;
+}
+
+form{
+    font-family: 'Public Sans'!important;
+}
+
+.d-flex{
+    justify-content: center;
+}
+
+.backdrop{
+    background-color: #1b1b2f;
+}
+
+#results{
+    color:#34e5eb;
+}
+#endDate{
+    max-width: 50px;
+}
+.navbar{
+  background:rgba(0, 0, 0, 0.4)!important;
+  max-height: 50px;
+  }
+  
+  .scrolling{
+      color: #9f7ecc
+  }
+  
+  .card{
+      background-color: #1f4068!important;
+  }
+  
+  h4{
+      color: #e43f5a;
+  }
